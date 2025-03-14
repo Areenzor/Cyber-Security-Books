@@ -32,7 +32,7 @@ This repository is dedicated to **Application Security**, focusing on best pract
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/areenzor/Cyber-Security-Books/Application-Security.git
+   git clone https://github.com/areenzor/Cyber-Security-Books.git
    cd Application-Security
    ```
 2. Explore different topics in the `docs/` directory.
@@ -42,6 +42,3 @@ This repository is dedicated to **Application Security**, focusing on best pract
 - Submit **pull requests** with improvements or additional security resources.
 - Ensure content is accurate and relevant.
 - Follow best practices for documentation.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
