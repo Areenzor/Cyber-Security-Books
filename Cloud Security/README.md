@@ -33,8 +33,8 @@ This repository is dedicated to **Cloud Security**, providing best practices, to
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/areenzor/cloud-security.git
-   cd cloud-security
+   git clone https://github.com/areenzor/Cyber-Security-Books.git
+   cd Cyber-Security-Books
    ```
 2. Explore different topics in the `docs/` directory.
 3. Contribute by adding new tools, security research, or cloud security policies.
@@ -43,6 +43,3 @@ This repository is dedicated to **Cloud Security**, providing best practices, to
 - Submit **pull requests** with new cloud security resources or improvements.
 - Ensure all content is accurate and up-to-date.
 - Follow best practices for documentation.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
