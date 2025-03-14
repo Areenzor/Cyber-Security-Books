@@ -33,7 +33,7 @@ This repository is dedicated to **Application Security**, focusing on best pract
 1. Clone the repository:
    ```bash
    git clone https://github.com/areenzor/Cyber-Security-Books.git
-   cd Application-Security
+   cd Cyber-Security-Books
    ```
 2. Explore different topics in the `docs/` directory.
 3. Contribute by adding new security tools, research papers, or secure coding tips.
