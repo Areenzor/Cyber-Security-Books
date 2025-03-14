@@ -33,8 +33,8 @@ This repository is dedicated to **Network Security**, covering essential concept
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Areenzor/Cyber-Security-Books/Network-Security.git
-   cd Network-Security
+   git clone https://github.com/areenzor/Cyber-Security-Books.git
+   cd Cyber-Security-Books
    ```
 2. Explore different topics in the `docs/` directory.
 3. Contribute by adding new resources, tools, or research papers.
@@ -43,6 +43,3 @@ This repository is dedicated to **Network Security**, covering essential concept
 - Feel free to submit **pull requests** with improvements or additional content.
 - Ensure content is accurate and up-to-date.
 - Follow best practices for documentation.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
